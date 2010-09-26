@@ -1,0 +1,7 @@
+Creates an quickbooks-importable .iif file from an amazon payments .csv.
+
+Amazon Payments doesn't export iif.
+
+This is pretty jank.  It was useful for me.  Might save you some time.
+
+We needed to use this to import a bunch of people off Kickstarter.com (which uses amazon payments).  As a 501(c)3 non-profit, we need to track donors individually, so being able to import this data into quickbooks is really helpful.
